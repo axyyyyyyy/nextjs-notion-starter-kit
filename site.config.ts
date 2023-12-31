@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'axyyyyyyy',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   newsletter: '#', // optional newsletter URL
@@ -50,16 +50,16 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  // navigationStyle: 'default'
-  navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: 'About',
-      pageId: '122d4b7a50b44ffea2fd7fdde1010aa4'
-    },
-    {
-      title: 'Contact',
-      pageId: '122d4b7a50b44ffea2fd7fdde1010aa4'
-    }
-  ]
+   navigationStyle: 'default'
+  // navigationStyle: 'custom',
+  // navigationLinks: [
+  //   {
+  //     title: 'About',
+  //     pageId: '122d4b7a50b44ffea2fd7fdde1010aa4'
+  //   },
+  //   {
+  //     title: 'Contact',
+  //     pageId: '122d4b7a50b44ffea2fd7fdde1010aa4'
+  //   }
+  // ]
 })
