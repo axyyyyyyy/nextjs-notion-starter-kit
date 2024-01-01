@@ -48,6 +48,8 @@ export default siteConfig({
   // }
   pageUrlOverrides: null,
 
+  includeNotionIdInUrls: true,
+
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
    navigationStyle: 'default'
